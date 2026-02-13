@@ -2,7 +2,7 @@
 
 > **⚠️ [Read the Disclaimer](#disclaimer) before using this tool**
 
-A powerful CLI tool for detecting OWASP Mobile Top 10 (2024) vulnerabilities in iOS Swift codebases.
+A CLI tool for detecting OWASP Mobile Top 10 (2024) vulnerabilities in iOS Swift codebases.
 
 ## Features
 
